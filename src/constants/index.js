@@ -159,7 +159,7 @@ export const experiences = [
   {
     title: "Technology Intern",
     job: "Network People Services Technologies Ltd.,Delhi",
-    date: "August 2025 - Present",
+    date: "August 2025 - November 2025",
     contents: [
         "- Assisting the backend team in developing a FinTech Integration Module using Java Spring Boot and related frameworks.",
         "- Building skills in Spring Security, Reactive Spring Boot and MongoDB while applying Linux commands in day-to-day tasks.",
@@ -180,6 +180,7 @@ export const achievements = [
         name : "Participated and Qualified in Multiple Hackathons"
     },{
         id : 4,
-        name : "Solved 300+ Problems on LeetCode"
+        name : "Solved 400+ Problems on LeetCode"
     }
+
 ]
